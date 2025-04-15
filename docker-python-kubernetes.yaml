@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: docker-python-demo
+  name: docker-python-demo-josh
   namespace: default
 spec:
   replicas: 1
